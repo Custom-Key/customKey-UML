@@ -25,7 +25,7 @@ Object diagram could be considered as instance level class diagram which shows i
 
 
  
-# GitHub Stats Card
+# Class Diagram
 
  A class is a classifier which describes a set of objects that share the same
 
